@@ -1,0 +1,13 @@
+local_search
+run.log
+*.o
+*.out
+*.exe
+*.dSYM/
+__pycache__/
+
+.DS_Store
+.vscode/
+.idea/
+
+~$*.docx
